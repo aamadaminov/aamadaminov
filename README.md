@@ -5,8 +5,9 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="cplusplus" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="csharp" width="40" height="40"/>&nbsp;
-          
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" title="unrealengine" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" title="unity" width="40" height="40"/>&nbsp;
+  
 <div id="statistics" align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aamadaminov&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aamadaminov&theme=github_dark"/>
