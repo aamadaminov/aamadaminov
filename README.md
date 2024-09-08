@@ -7,6 +7,7 @@
 
 <div id="statistics" align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aamadaminov&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aamadaminov&theme=github_dark"/>
 </div>
 
 <!--
