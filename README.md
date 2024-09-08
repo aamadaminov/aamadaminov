@@ -3,6 +3,9 @@
 <h3> Junior C++ Developer </h3>
 </div>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="cplusplus" width="40" height="40/>&nbsp;
+          
+
 <!--
 **aamadaminov/aamadaminov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
