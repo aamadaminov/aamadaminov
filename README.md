@@ -4,7 +4,10 @@
 </div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="cplusplus" width="40" height="40"/>&nbsp;
-          
+
+<div id="statistics" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details&username=aamadaminov&theme=github_dark"/>
+</div>
 
 <!--
 **aamadaminov/aamadaminov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
