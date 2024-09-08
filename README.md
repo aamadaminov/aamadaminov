@@ -6,7 +6,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="cplusplus" width="40" height="40"/>&nbsp;
 
 <div id="statistics" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details&username=aamadaminov&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aamadaminov&theme=github_dark"/>
 </div>
 
 <!--
